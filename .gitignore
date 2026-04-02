@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.venv/
+node_modules/
+.env
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+*.log
+*.cube
+*.molden
+*.chk
+.DS_Store
+*.bak
+output/
+tmp_*.pptx
